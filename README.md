@@ -11,32 +11,6 @@ Overlay DPS transparent qui se superpose à Albion Online en temps réel.
 
 - [Double clic sur ici pour le télécharger](https://nodejs.org/dist/v26.3.0/node-v26.3.0-x64.msi)
 
-### Étapes
-
-**1. Ouvre un terminal dans ce dossier**
-   - Clic droit sur le dossier → "Ouvrir dans le terminal"
-   - ou CMD : `cd C:\chemin\vers\albion-dps-overlay`
-
-**2. Installe les dépendances**
-```
-npm install
-```
-
-**3. Lance la compilation**
-```
-npm run dist
-```
-
-⏳ Patiente 2-3 minutes (télécharge Electron ~100 Mo la première fois)
-
-**Résultat** : le fichier `dist\win-unpacked` apparaît.
-Double-clique dessus → puis extraire tous les fichiers dans un dossier sur le Bureau.
-
-Ensuite Nouveau → Raccourcie → copier le raccoursie sur votre Bureau.
-
-Double clic sur l'appli pour la lancer
-
----
 
 ## Utilisation
 
