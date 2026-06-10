@@ -7,7 +7,9 @@ Overlay DPS transparent qui se superpose à Albion Online en temps réel.
 ## ⚡ Créer l'installateur Windows (.exe) — 3 étapes
 
 ### Prérequis
-- [Node.js](https://nodejs.org) (LTS) — télécharge et installe si pas déjà fait
+- [Node.js]
+
+- Double clic sur l'instalateur 'node-v26.3.0-x64.msi'
 
 ### Étapes
 
