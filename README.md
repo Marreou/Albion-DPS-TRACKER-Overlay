@@ -27,8 +27,12 @@ npm run dist
 
 ⏳ Patiente 2-3 minutes (télécharge Electron ~100 Mo la première fois)
 
-**Résultat** : le fichier `dist\Albion DPS Overlay Setup 1.0.0.exe` apparaît.
-Double-clique dessus → installation classique Windows → raccourci sur le bureau.
+**Résultat** : le fichier `dist\win-unpacked` apparaît.
+Double-clique dessus → puis extraire tous les fichiers dans un dossier sur le Bureau.
+
+Ensuite Nouveau → Raccourcie → copier le raccoursie sur votre Bureau.
+
+Double clic sur l'appli pour la lancer
 
 ---
 
